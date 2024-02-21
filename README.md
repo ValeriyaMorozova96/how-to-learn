@@ -7,4 +7,5 @@
 * анимация
 * ссылки реагируют на наведение кнопки мыши
 * с помощью iframe вставлены видео из Ютуба.
+  
 [Проект на GitHub Pages](https://valeriyamorozova96.github.io/how-to-learn/)
